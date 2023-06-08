@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479439465105",
+    "firebase_url": "https://jobfind-7d381-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jobfind-7d381",
+    "storage_bucket": "jobfind-7d381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479439465105:android:f979976a3987dbfaa0ed30",
+        "android_client_info": {
+          "package_name": "com.example.recruitmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479439465105-dhjnhh84qq5lj1p1pdbs4fcbqthk4dhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxousTmN_yhxh488bWxFzuqYXFTJa-6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479439465105-dhjnhh84qq5lj1p1pdbs4fcbqthk4dhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
